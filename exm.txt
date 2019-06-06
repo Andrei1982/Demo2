@@ -23,3 +23,5 @@ Training
 Train-ing
 Train-ing
 -----------------
+stash
+stash
